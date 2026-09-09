@@ -1,3 +1,4 @@
 # Why we are here? Learning programming in an AI code generation era
 In this era of rapid technological advancement, in 2026, people can generate runnable code with AI tools through simple prompts, efffortlessly and in bulk. Such low-threshold operation raises an unavoildable key quesetion within the degisn industry: if AI can generate code with higher accuracy, greater speed, and superior quality compared with most human programmers in the future, is it still necessary for us to learn programming ourselves?
+
 Based on the above, this paper argues that the core of learning programming is not merely writing code, but mastering the skill to understand, guide and refine machine-generated creativity. Even in the age of AI assisted code generation, humans will not be rendered obsolete. Humans still retain ownership and control over creation.
