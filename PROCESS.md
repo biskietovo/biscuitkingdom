@@ -1,1 +1,3 @@
+This writing topic selection: Why do designers still need to learn programming when AI code generation tools are popular and anyone can generate all kinds of codes with AI tools?
 
+The original idea: Only by learning the most basic things can you add your own ideas and details on this basis. Only then can you make what you want. Many students think that AI can directly generate code, and it is meaningless to learn to write code by hand, but I want to refute this point of view, because if we don’t master the skill of code, AI generates some wrong code, and we have no way to modify it, so we still need to carry out Systematic learning, master the learning power of creation 
