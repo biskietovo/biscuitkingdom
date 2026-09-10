@@ -4,3 +4,16 @@ In this era of rapid technological advancement, in 2026, people can generate run
 Based on the above, this paper argues that the core of learning programming is not merely writing code, but mastering the skill to understand, guide and refine machine generated creativity. Even in the age of AI assisted code generation, humans will not be rendered obsolete. Humans still retain ownership and control over creation.
 
 I once watched an interview where the interviewer asked an author, "What do you think is the shortcoming of AI? " The author replied:"I think AI's flaw is that it never hasitates." Indeed, AI tools always deliver a solution in the quickest possible time. Yet all AI generated outputs are built upon the accumulated experience of human creators over the years. This is also why I believe AI can never replace creators. AI has no genuine thoughts of its own. It can only draw on past human experience and reshape the boundaries of creation. Even if AI takes over repetitive and tedious technical work, it can never produce truly meaningful works.
+
+
+
+## Schotter Generative Art
+This is a generative art piece inspired by Georg Nee's Schotter.
+
+How to run:
+Run 'py sketch.py', it will generate sketch.svg.
+
+Parameters:
+-SEED: random seed, change number to get different parttern
+-CHAOS: control how much squares are distorted
+-COLS / ROWS: set number of columns and rows
