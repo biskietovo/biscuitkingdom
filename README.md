@@ -19,5 +19,6 @@ To conclude, we still learn programming in 2026 not to manually write code in pl
 
 ## References
 1.Kim, A. (2026, April 21). *"우리는 왜 김애란을 읽는가" 미방분 포함 60분 풀버전 공개! | [손석희의 질문들 시즌4] 마지막 선물🎁* [Video]. YouTube. https://youtu.be/7Ewri3_Hgs0?si=HriPv199vHLlIZ7f
+
 2.Nake, F., & Lieser, W. (2025, September 12). *“Think the Image, Don’t Make it!” — Frieder Nake Reflects on 60 Years of Algorithmic Art* [Interview transcript]. DAM Digital Art Museum. https://dam.org/museum/essays_ui/essays/frieder-nake-wolf-lieser-60‑years‑of‑algorithmic‑art/
 
