@@ -8,3 +8,9 @@ I once watched an interview where the interviewer asked an author, "What do you 
 For AI, its creative logic is to replicate the optimal design solutions from human creators. For human creators, our advantage lies in our capacity to hesitate, make trade offs and revise among various options. The value of art does not lie in being flawless, instead, it resides in the creator's emotions, negative spaces, unique personal aesthetic and expression of the times. AI tools only produce the safest outcomes that fit mainstream public tastes. This means AI generated code and design works inherently suffer from homogenisation.
 
 Looking at the historical development of art and technology, every emergence of new technology sparks debates claiming that technology will replace creators. When photography first appeared, people believed realistic painting would disappear entirely. When synthesisers were invented, many thought human musicians would no longer be needed. In 1965, when computer artworks by Frieder Nake and Georg Nees were presented to public, critics also accused machines od taking artists' job. Yet history ultimately shows that technology does not eliminate art, it only phases out creators who fail to utilise the new tools. Painting did not vanish. It broke free from the burden of realistic doocumentation and moved toward abstraction, conceptual and contemporary art. Music did not die out, either. It expanded into brand new electronic timbres and creative systems. Today's AI code generation marks another round od evolution within design and programming practice.
+
+
+
+
+## References
+Kim, A. (2026, April 21). *"우리는 왜 김애란을 읽는가" 미방분 포함 60분 풀버전 공개! | [손석희의 질문들 시즌4] 마지막 선물🎁* [Video]. YouTube. https://youtu.be/7Ewri3_Hgs0?si=HriPv199vHLlIZ7f
